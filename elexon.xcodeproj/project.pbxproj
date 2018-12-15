@@ -60,8 +60,8 @@
 			children = (
 				D94E1A7C21C2E6A400561369 /* protocol */,
 				D94E1A7B21C2E68B00561369 /* enmaration */,
-				D94E1A6921C2E00600561369 /* AppDelegate.swift */,
 				D94E1A6B21C2E00600561369 /* ViewController.swift */,
+				D94E1A6921C2E00600561369 /* AppDelegate.swift */,
 				D94E1A6D21C2E00600561369 /* Main.storyboard */,
 				D94E1A7021C2E00900561369 /* Assets.xcassets */,
 				D94E1A7221C2E00900561369 /* LaunchScreen.storyboard */,

@@ -20,7 +20,8 @@ class ViewController: UIViewController {
 
     @IBAction func toglBtnWasPress(_ sender: Any) {
         switchStatus.togley()
-        if switchStatus == .off{
+        if switchStatus == .off
+        {
             togloBtnWasPiess.setImage(UIImage(named: "offBtn")!, for: .normal)
             view.backgroundColor=#colorLiteral(red: 0.3333333433, green: 0.3333333433, blue: 0.3333333433, alpha: 1)
             onOfabel.text="👽off👽"
